@@ -1,0 +1,15 @@
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\bin\Debug\net7.0\Zadacha13.exe
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\bin\Debug\net7.0\Zadacha13.deps.json
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\bin\Debug\net7.0\Zadacha13.runtimeconfig.json
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\bin\Debug\net7.0\Zadacha13.dll
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\bin\Debug\net7.0\Zadacha13.pdb
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\Zadacha13.csproj.AssemblyReference.cache
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\Zadacha13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\Zadacha13.AssemblyInfoInputs.cache
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\Zadacha13.AssemblyInfo.cs
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\Zadacha13.csproj.CoreCompileInputs.cache
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\Zadacha13.dll
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\refint\Zadacha13.dll
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\Zadacha13.pdb
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\Zadacha13.genruntimeconfig.cache
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad2\Zadacha13\obj\Debug\net7.0\ref\Zadacha13.dll
